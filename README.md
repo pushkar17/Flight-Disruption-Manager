@@ -2,6 +2,20 @@
 
 An agentic AI operations prototype for **Airline Operations Control Centers (OCC)** to detect irregular operations (IRROPS), evaluate airline tariff policies, price and rank recovery alternatives, and streamline **Human-in-the-Loop (HITL)** passenger rebooking.
 
+## Screenshots
+
+### Flights Overview
+
+![Flights Overview showing disruptions and estimated financial exposure](screenshots/flights-overview.png)
+
+### Rebooking Options
+
+![Ranked flight alternatives and airline recovery costs](screenshots/rebooking-options.png)
+
+### Human Approval
+
+![Dispatcher review of a recommended rebooking](screenshots/human-approval.png)
+
 ---
 
 ## ✨ Key Features
