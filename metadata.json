@@ -1,0 +1,6 @@
+{
+  "name": "Flight Disruption Manager",
+  "description": "Agentic AI product for airline operations teams to detect irregular operations, apply policy, rank rebooking options, and manage recovery workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
